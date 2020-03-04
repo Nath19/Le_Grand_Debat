@@ -1,7 +1,5 @@
 # Le_Grand_Debat
 
-![cap](/Users/nathanamar/Documents/github/Le_Grand_Debat/cap.png)
-
 
 
 

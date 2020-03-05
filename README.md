@@ -15,7 +15,7 @@ Three mains points that your project must contain :
 
 
 
-### ## Pretreatments
+## Pretreatments
 
 You need to manage datas on french language and adapt all your pretreatements.
  You need also to manage a certain amount of noise in the answers, people made mistakes.
